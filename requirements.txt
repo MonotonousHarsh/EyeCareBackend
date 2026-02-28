@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+getstream
+langgraph
+langchain-groq
+langchain-core
+python-dotenv
+httpx
+opencv-python-headless
+numpy
+timm
+# Use CPU-only PyTorch to save server memory
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision

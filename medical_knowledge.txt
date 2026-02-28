@@ -1,0 +1,18 @@
+DISEASE: MYOPIA (Nearsightedness)
+Symptoms: Blurry distance vision, squinting, headaches.
+Causes: Eyeball is too long or cornea is too curved.
+Treatment: Concave lenses (glasses/contacts), LASIK surgery.
+Screening: Distance Acuity test showing worse than 20/40 vision.
+
+DISEASE: PRESBYOPIA
+Symptoms: Difficulty reading small print, holding phones further away.
+Causes: Aging leads to hardening of the eye's lens.
+Treatment: Reading glasses, bifocals, progressive lenses.
+Screening: Near Vision test with N-Score worse than N6.
+
+DISEASE: GLAUCOMA
+Symptoms: Patchy blind spots in side (peripheral) vision. Advanced stages show tunnel vision.
+Warning: "Silent Thief of Sight" - often no early symptoms.
+Risk Factors: Age over 60, family history, high eye pressure.
+Treatment: Prescription eye drops, laser treatment, surgery.
+Emergency: Sudden severe eye pain with nausea requires immediate ER visit.
