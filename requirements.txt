@@ -1,10 +1,14 @@
 fastapi
 uvicorn
+python-multipart
 pydantic
 getstream
 langgraph
+langchain
 langchain-groq
 langchain-core
+langchain-chroma
+chromadb
 python-dotenv
 httpx
 opencv-python-headless
