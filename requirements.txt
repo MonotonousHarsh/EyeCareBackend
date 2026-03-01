@@ -1,20 +1,39 @@
+# --- Core API & Server ---
 fastapi
 uvicorn
 python-multipart
 pydantic
-getstream
-langgraph
-langchain
-langchain-groq
-langchain-core
-langchain-chroma
-chromadb
-python-dotenv
 httpx
+
+# --- AI & Graph Routing ---
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+langgraph
+langchain-chroma
+langchain-huggingface
+
+# --- Vector DB & Embeddings ---
+chromadb
+sentence-transformers
+
+# --- Computer Vision & Deep Learning ---
 opencv-python-headless
 numpy
+Pillow
 timm
-# Use CPU-only PyTorch to save server memory
+
+# Force CPU-only to prevent Render from running out of memory
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
 torchvision
+
+# --- Video Stream SDK ---
+getstream
+
+# --- Utilities & Document Loaders ---
+python-dotenv
+pypdf
+docx2txt
